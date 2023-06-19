@@ -1,0 +1,69 @@
+A000;Cólera devida a Vibrio cholerae 01, biótipo cholerae
+A001;Cólera devida a Vibrio cholerae 01, biótipo El Tor
+A009;Cólera não especificada
+A010;Febre tifóide
+A011;Febre paratifóide A
+A012;Febre paratifóide B
+A013;Febre paratifóide C
+A014;Febre paratifóide não especificada
+A020;Enterite por salmonela
+A021;Septicemia por salmonela
+A022;Infecções localizadas por salmonela
+A028;Outras infecções especificadas por salmonela
+A029;Infecção não especificada por salmonela
+A030;Shiguelose devida a Shigella dysenteriae
+A031;Shiguelose devida a Shigella flexneri
+A032;Shiguelose devida a Shigella boydii
+A033;Shiguelose devida a Shigella sonnei
+A038;Outras shigueloses
+A039;Shiguelose não especificada
+A040;Infecção por Escherichia coli enteropatogênica
+A041;Infecção por Escherichia coli enterotoxigênica
+A042;Infecção por Escherichia coli enteroinvasiva
+A043;Infecção por Escherichia coli enterohemorrágica
+A044;Outras infecções intestinais por Escherichia coli
+A045;Enterite por Campylobacter
+A046;Enterite devida a Yersinia enterocolítica
+A047;Enterocolite devida a Clostridium difficile
+A048;Outras infecções bacterianas intestinais especificadas
+A049;Infecção intestinal bacteriana não especificada
+A050;Intoxicação alimentar estafilocócica
+A051;Botulismo
+A052;Intoxicação alimentar devida a Clostridium perfringens [Clostridium welchii]
+A053;Intoxicação alimentar devida a Vibrio parahemolyticus
+A054;Intoxicação alimentar devida a Bacillus cereus
+A058;Outras intoxicações alimentares bacterianas especificadas
+A059;Intoxicação alimentar bacteriana não especificada
+A060;Disenteria amebiana aguda
+A061;Amebíase intestinal crônica
+A062;Colite amebiana não-disentérica
+A063;Ameboma intestinal
+A064;Abscesso amebiano do fígado
+A065;Abscesso amebiano do pulmão
+A066;Abscesso amebiano do cérebro
+A067;Amebíase cutânea
+A068;Infecção amebiana de outras localizações
+A069;Amebíase não especificada
+A070;Balantidíase
+A071;Giardíase [lamblíase]
+A072;Criptosporidiose
+A073;Isosporíase
+A078;Outras doenças intestinais especificadas por protozoários
+A079;Doença intestinal não especificada por protozoários
+A080;Enterite por rotavírus
+A081;Gastroenteropatia aguda pelo agente de Norwalk
+A082;Enterite por adenovírus
+A083;Outras enterites virais
+A084;Infecção intestinal devida a vírus não especificado
+A085;Outras infecções intestinais especificadas
+A09;Diarréia e gastroenterite de origem infecciosa presumível
+A150;Tuberculose pulmonar, com confirmação por exame microscópico da expectoração, com ou sem cultura
+A151;Tuberculose pulmonar, com confirmação somente por cultura
+A152;Tuberculose pulmonar, com confirmação histológica
+A153;Tuberculose pulmonar, com confirmação por meio não especificado
+A154;Tuberculose dos gânglios intratorácicos, com confirmação bacteriológica e histológica
+A155;Tuberculose da laringe, da traquéia e dos brônquios, com confirmação bacteriológica e histológica
+A156;Pleuris tuberculoso, com confirmação bacteriológica e histológica
+A157;Tuberculose primária das vias respiratórias, com confirmação bacteriológica e histológica
+A158;Outras formas de tuberculose das vias respiratórias, com confirmação bacteriológica e histológica
+A159;Tuberculose não especificada das vias respiratórias, com confirmação bacteriológica e histológica
