@@ -8,11 +8,19 @@
     <link rel="icon" href="{{asset('imgs/icon-top.png')}}">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>Painel Administrativo sistema Evolutec.</title>
+    <title>Login sistema Evolutec</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/dashboard/">
     
+    
     <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="{{ asset('js/service-worker.js') }}" defer></script>
+
+<!-- PWA -->
+    <link rel="app-touch-icon" href="{{ asset('imgs/logo.png') }}">
+    <link rel="manifest" href="{{ asset('/manifest.json') }}">
+    
+
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     
     
@@ -58,6 +66,15 @@
 <!-- Importe a biblioteca JavaScript do Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
 
+      <!-- PWA -->
+    <script src="{{ asset('/sw.js') }}" defer></script>
+    <script>
+      if (!navigator.serviceWorker.controller){
+        navigator.serviceWorker.register("/sw.js").then(function (reg) {
+          console.log("ServiceWorker inserido: " + reg.scope);
+        });
+      }
+    </script>
   </body>
 </html>
 

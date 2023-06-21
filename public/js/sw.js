@@ -1,4 +1,4 @@
-var cacheName = 'Cadastro Transporte';
+var cacheName = 'Evolutec';
 var filesToCache = [
   '/',
   '/index.html',
